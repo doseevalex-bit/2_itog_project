@@ -1,0 +1,19 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Временные файлы
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Параметры конфиденциальности
+.env
+
+# Библиотеки
+venv/
